@@ -7,3 +7,4 @@ django-graphql-jwt
 graphene-file-upload
 requests
 stripe
+djangorestframework
